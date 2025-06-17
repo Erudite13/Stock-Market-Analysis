@@ -54,12 +54,6 @@ Edit
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots of your Streamlit app interface here if available)*
-
----
-
 ## 🔧 Setup Instructions
 
 ### 1. Clone the Repository
